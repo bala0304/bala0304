@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-# Hi, I'm Bala 👋
+# Bala Krishna
 
 ## 🛡️ Security+ Certified | Aspiring SOC Analyst / Cybersecurity Engineer
 
@@ -24,7 +21,7 @@ I focus on hands-on cybersecurity by debugging real-world applications, analyzin
 
 - **Security Operations**: Log analysis, SIEM basics, threat detection  
 - **Systems**: Linux (Kali), Windows administration  
-- **Networking**: Wireshark, traffic analysis, fundamentals  
+- **Networking**: Wireshark, traffic analysis  
 - **Cloud**: AWS (hands-on labs, security scenarios)  
 - **Debugging**: API tracing, authentication flows, system troubleshooting  
 
@@ -40,7 +37,7 @@ I focus on hands-on cybersecurity by debugging real-world applications, analyzin
 
 ## 📜 Certification
 
-- CompTIA Security+ (Achieved: Sept 3, 2025)
+- CompTIA Security+ (Sep 2025)
 
 ---
 
