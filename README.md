@@ -15,6 +15,14 @@ I focus on hands-on cybersecurity by debugging real-world applications, analyzin
 
 👉 https://github.com/bala0304/web-app-debugging-case-study
 
+### 🔹 Smart Log Monitor (Mini SOC Pipeline)
+Built a log monitoring and threat triage system for AWS environments
+Ingests logs from CloudWatch and reduces noise using semantic deduplication
+Uses AI agents (CrewAI + LLMs) for alert triage and analysis
+Simulates real SOC workflows with automated detection logic
+
+👉 https://github.com/bala0304/Smart-Log-Monitor
+
 ---
 
 ## ⚙️ Skills
