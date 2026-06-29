@@ -16,22 +16,19 @@ An independent security automation project exploring deterministic orchestration
 - **Graph Modeling & Reports:** Coordinates verification workflows, models multi-step attack paths with NetworkX, and generates structured remediation reports.
 - **State & Retrieval Backend:** Utilizes LangGraph with PostgreSQL checkpointing for state management and Qdrant for semantic search retrieval.
 
-👉 https://github.com/bala0304/ai-pentester
-
+🔗 **Repository:** [AI-Pentester](https://github.com/bala0304/ai-pentester)
 ---
 
 ### 🔹 Web Application Debugging Case Study
 A documented investigation of authentication, session handling, API routing, and configuration issues across a multi-service web application, emphasizing systematic troubleshooting methodologies.
 
-👉 https://github.com/bala0304/web-app-debugging-case-study
-
+🔗 **Repository:** [Web Application Debugging Case Study](https://github.com/bala0304/web-app-debugging-case-study)
 ---
 
 ### 🔹 Smart Log Monitor
 A prototype security monitoring pipeline designed to ingest AWS CloudWatch logs, reduce duplicate events, and experiment with AI-assisted alert triage workflows.
 
-👉 https://github.com/bala0304/Smart-Log-Monitor
-
+🔗 **Repository:** [Smart Log Monitor](https://github.com/bala0304/Smart-Log-Monitor)
 ---
 
 ## ⚙️ Core Technical Skills
@@ -45,7 +42,7 @@ A prototype security monitoring pipeline designed to ingest AWS CloudWatch logs,
 
 ## 📜 Certifications
 
-- **CompTIA Security+** — Certified Associate (Earned Sep 2025)
+- **CompTIA Security+** — Certified Associate
 
 ---
 
