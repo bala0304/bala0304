@@ -1,7 +1,7 @@
 # Neeradi Bala Krishna
 
 ## 🛡️ Security+ Certified | Cyber Security Associate & Lab Builder
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-Certified-red?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/62b0f19d-ba41-4ce3-9bfe-6c3f294cc058)
+[![CompTIA Security+ Certified](https://img.shields.io/badge/CompTIA-Security%20%2B%20Certified-red?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/badges/62b0f19d-ba41-4ce3-9bfe-6c3f294cc058)
 
 I build hands-on cybersecurity projects to understand how modern security tooling works internally—from vulnerability intelligence and deterministic agent orchestration to cloud log analysis and security automation[cite: 2]. My focus is on building, testing, and documenting systems that solve practical security problems while strengthening my engineering skills[cite: 2].
 
