@@ -43,13 +43,6 @@ A prototype security monitoring pipeline designed to ingest AWS CloudWatch logs,
 
 ---
 
-## 🧠 Currently Learning & Practicing
-
-- **Cloud-Native Infrastructure:** Kubernetes fundamentals, container lifecycles, and cloud security boundaries via the CKA curriculum.
-- **Threat Intelligence Automation:** Expanding data ingestion pipelines with external open-source threat intelligence APIs.
-
----
-
 ## 📜 Certifications
 
 - **CompTIA Security+** — Certified Associate (Earned Sep 2025)
