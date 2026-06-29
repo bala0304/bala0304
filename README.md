@@ -38,7 +38,7 @@ A prototype security monitoring pipeline designed to ingest AWS CloudWatch logs,
 
 * **Security Scripting & Automation:** Python, LangGraph, Pydantic, NetworkX, Automation Logic
 * **Infrastructure & Security Tools:** Nmap, Nuclei, Masscan, HTTPX, Wireshark, Linux (Kali Linux)
-* **Databases & Vector Storage:** PostgreSQL (State & Checkpointing), Qdrant (Semantic Search), DuckDB
+* **Databases & Vector Storage:** PostgreSQL (State & Checkpointing), Qdrant (Semantic Search)
 * **Cloud & Operations:** AWS CloudWatch, IAM Baseline Security, Log Processing, CVE/MITRE Research
 
 ---
