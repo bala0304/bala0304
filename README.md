@@ -18,13 +18,23 @@ An independent security automation project exploring deterministic orchestration
 
 ---
 
-### 🔹 Web Application Debugging Case Study
-A documented investigation of authentication, session handling, API routing, and configuration issues across a multi-service web application, emphasizing systematic troubleshooting methodologies.
+### 🔹 ZeroLex
+A privacy-first, deterministic security and compliance scanner designed to analyze software projects locally without allowing AI systems to influence security findings.
+
+- **Deterministic Analysis:** Uses AST-driven and rule-based analysis to produce reproducible security and compliance findings.
+- **Privacy by Architecture:** Separates the offline scanning core from network-capable components through explicit trust boundaries.
+- **Canonical Control Mapping:** Maps technical detections to reusable canonical controls, with framework packs providing regulatory context.
+- **Reproducible Reporting:** Produces stable findings and reports designed for repeatable analysis, CI workflows, auditing, and regression testing.
 
 ---
 
-### 🔹 Smart Log Monitor
-A prototype security monitoring pipeline designed to ingest AWS CloudWatch logs, reduce duplicate events, and experiment with AI-assisted alert triage workflows.
+### 🔹 Threat-Intelligence-Tracker
+A threat intelligence platform that collects, normalizes, enriches, and tracks security intelligence from multiple sources to help prioritize emerging vulnerabilities and threats.
+
+- **Intelligence Aggregation:** Collects and processes vulnerability and threat intelligence from multiple security data sources.
+- **Automated Enrichment:** Correlates security data with contextual information to improve vulnerability analysis and prioritization.
+- **Structured Tracking:** Stores and organizes intelligence for efficient retrieval, investigation, and trend analysis.
+- **Security Automation:** Uses automated workflows and AI-assisted analysis to support faster security intelligence processing.
 
 ---
 
